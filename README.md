@@ -1,6 +1,6 @@
 # Credit Risk Analysis: Robustness & Data Drift Mitigation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TON_LIEN_COLAB_ICI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JlcQGgM5_Zet2202hCFeD9LDHley4Lv)
 
 ## 📌 Project Overview
 This project implements a complete end-to-end Machine Learning pipeline to predict loan default risks. Beyond standard classification, the core focus is on **model reliability** and **lifecycle management**. It simulates real-world scenarios where data distributions evolve over time (Data Drift) and evaluates multiple strategies to maintain model accuracy.
